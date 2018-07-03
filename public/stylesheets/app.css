@@ -1,0 +1,20 @@
+.icon {
+    font-size : 2em;
+}
+.main.container{
+    margin-top: 7em;
+}
+
+#delete{
+    display: inline;
+}
+
+#show .item .description{
+    padding:10px;
+}
+#show .item .content span{
+    display: block;
+ 
+    font-weight: bold;
+    padding:10px;
+}
